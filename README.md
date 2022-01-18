@@ -3,8 +3,8 @@
 ## Tổng hợp hình
 
 Được chia làm ba thư mục
-- [Lễ](./Le)
-- [Phóng sự](./PhongSu)
-- [Tiệc](./Tiec)
+- [Lễ](./le)
+- [Phóng sự](./phongsu)
+- [Tiệc](./tiec)
 
 [Website thư mời](https://www.votainguyenatm.wixsite.com/huyngawedding)
