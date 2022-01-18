@@ -7,4 +7,4 @@
 - [Phóng sự](./PhongSu)
 - [Tiệc](./Tiec)
 
-[Website thư mời](https://votainguyenatm.wixsite.com/huyngawedding)
+[Website thư mời](https://www.votainguyenatm.wixsite.com/huyngawedding)
