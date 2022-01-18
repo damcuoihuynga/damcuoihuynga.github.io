@@ -3,8 +3,8 @@
 ## Tổng hợp hình
 
 Được chia làm ba thư mục
-- [Lễ](damcuoihuynga.github.io/Le)
-- [Phóng sự](damcuoihuynga.github.io/PhongSu)
-- [Tiệc](damcuoihuynga.github.io/Tiec)
+- [Lễ](./Le)
+- [Phóng sự](./PhongSu)
+- [Tiệc](./Tiec)
 
 [Website thư mời](votainguyenatm.wixsite.com/huyngawedding)
